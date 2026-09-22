@@ -9,7 +9,7 @@ def run_ai():
     # Paggawa ng koneksyon sa client
     client = genai.Client()
     
-    prompt = input ("Search here...") 
+    prompt = input ("Hi, marc im your created AI Chatbot search here...") 
     print(f"Prompt: {prompt}\n")
     print("loading...")
 
