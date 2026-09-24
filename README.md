@@ -1,4 +1,4 @@
-# 🤖 AI Chatbot Project (Pyhton + Flask + React + Gemini)
+# 🤖 AI Chatbot Project (Python + Flask + React + Gemini)
 
 A lightweight and interactive AI chatbot application built with a **Python (Flask)** backend and a **React** frontend, powered by the official Google `genai` SDK and secured using `python-dotenv`.
 
